@@ -1,0 +1,5 @@
+package com.Agencia.repositories;
+
+public interface ClienteRepository {
+
+}

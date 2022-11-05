@@ -1,0 +1,9 @@
+package com.Agencia.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.Agencia.model.Cliente;
+
+public interface ClienteRepository extends JpaRepository<Cliente, Long> {
+
+}

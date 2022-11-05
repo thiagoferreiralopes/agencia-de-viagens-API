@@ -1,0 +1,5 @@
+package com.Agencia.exception;
+
+public class ResourceNotFoundException {
+
+}
